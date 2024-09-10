@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rotimi
 - 👀 I’m interested in Data analysis and Data Science
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects and jobs
 - 📫 How to reach me ...loutimi59@gmail.com
 
