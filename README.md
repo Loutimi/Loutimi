@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rotimi
 - 👀 I’m interested in Backend Web development, Data analysis and Data Science
-- 🌱 I’m currently learning Python, Django
 - 💞️ I’m looking to collaborate on projects and jobs
 - 📫 How to reach me ...loutimi59@gmail.com
 
